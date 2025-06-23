@@ -5,6 +5,7 @@
 # Version   : 1.0.0
 # Author    : Clement
 # Date      : 2025-06-22
+# Profile   : https://www.linkedin.com/in/mariyanclement/
 ######################################################################
 
 CONFIG_FILE="./pg_settings.conf"
