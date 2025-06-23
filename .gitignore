@@ -1,0 +1,4 @@
+# .gitignore
+pg_settings.conf
+logs/
+*.log
